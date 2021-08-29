@@ -1,0 +1,19 @@
+{
+    "name": "lesichkovm/php-icons",
+    "description": "Easy icons for PHP",
+    "type": "library",
+    "keywords": ["icons", "php", "lesichkov"],    
+    "homepage": "http://github.com/lesichkovm/php-icons",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Milan Lesichkov",
+            "email": "lesichkovm@gmail.com",
+            "homepage": "http://lesichkov.co.uk",
+            "role": "Lead Developer"
+        }
+    ],
+    "autoload": {
+        "files": ["src/icon.php"]
+    }
+}
